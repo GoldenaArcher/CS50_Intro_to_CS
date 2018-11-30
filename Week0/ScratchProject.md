@@ -13,3 +13,20 @@
 		- __directions__ contains all 4 directions that snake can move toward. I just feel that allow snake to move randomly at the beginning is more interesting.
 - ___food___: when snake eats food, it will grow
 	- ___partially implementation__
+	
+# Result for This Week
+```
+submit50 GoldenaArcher
+cs50/2018/x/scratch
+:) project exists and is valid Scratch program
+Log 
+running unzip SnakePartiallyDone.sb2... 
+Checking that project.json exists... 
+:) project contains at least two sprites
+:) project contains a non-cat sprite
+:) project contains at least three scripts
+:) project uses at least one condition
+:) project uses at least one loop
+:) project uses at least one variable
+:) project uses at least one sound
+```
