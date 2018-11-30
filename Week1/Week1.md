@@ -3,6 +3,8 @@
 # Extra notes
 In `cs50.h`, the instructors actually wrote `bool` and `string` as helper function, so they are ready to use.
 
+`sr1` are downloaded from official website.
+
 # Result for This Week1
 ## Setup with hello.c
 ```
